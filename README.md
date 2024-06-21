@@ -3,7 +3,11 @@
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo.svg?style=flat&logo=github)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo.svg?style=flat&logo=github)
 ![License](https://img.shields.io/github/license/your-username/your-repo.svg?style=flat&logo=github)
-![hq720](https://github.com/Stake-Predictor-IW/Stake-mines-predictor/assets/173465741/a7ed0f42-331b-4e93-aae1-c43ec420ced3)
+
+
+
+https://github.com/Stake-Predictor-IW/Stake-Crash-Predictor/assets/173465741/aa8aeed9-3cb3-468f-ad46-75a8648f4373
+
 
 
 
